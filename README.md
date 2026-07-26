@@ -1,3 +1,7 @@
+<!-- veigapunk-upstream-maintainers:start -->
+> **Upstream package maintainer contact(s):** [Christian Muehlhaeuser (`muesli`)](https://github.com/muesli). Declared in the upstream release configuration.
+<!-- veigapunk-upstream-maintainers:end -->
+
 # Glow
 
 Render markdown on the CLI, with _pizzazz_!
