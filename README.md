@@ -1,5 +1,62 @@
 <!-- veigapunk-upstream-maintainers:start -->
 > **Upstream package maintainer contact(s):** [Christian Muehlhaeuser (`muesli`)](https://github.com/muesli). Declared in the upstream release configuration.
+
+<details><summary>All contributors (52)</summary>
+
+- Christian Rocha ([`meowgorithm`](https://github.com/meowgorithm))
+- Christian Muehlhaeuser ([`muesli`](https://github.com/muesli))
+- dependabot\[bot\] ([`dependabot[bot]`](https://github.com/dependabot%5Bbot%5D))
+- Carlos Alexandro Becker ([`caarlos0`](https://github.com/caarlos0))
+- Nicolas M\. ([`penguwin`](https://github.com/penguwin))
+- Andrey Nering ([`andreynering`](https://github.com/andreynering))
+- Toby Padilla ([`toby`](https://github.com/toby))
+- Ayman Bagabas ([`aymanbagabas`](https://github.com/aymanbagabas))
+- Toby Padilla
+- Charm ([`charmcli`](https://github.com/charmcli))
+- Maas Lalani ([`maaslalani`](https://github.com/maaslalani))
+- bashbunni ([`bashbunni`](https://github.com/bashbunni))
+- Shane\-XB\-Qian ([`Shane-XB-Qian`](https://github.com/Shane-XB-Qian))
+- github\-actions\[bot\] ([`github-actions[bot]`](https://github.com/github-actions%5Bbot%5D))
+- Markus Billharz ([`MarkusBillharz`](https://github.com/MarkusBillharz))
+- Ktrod ([`Ktrod`](https://github.com/Ktrod))
+- Aitva ([`aitva`](https://github.com/aitva))
+- Prashanta Paudel ([`pacificpaudel`](https://github.com/pacificpaudel))
+- Prithvi Jethwa ([`prithvijj`](https://github.com/prithvijj))
+- Sebastian Cohnen ([`tisba`](https://github.com/tisba))
+- Selwyn ([`Siilwyn`](https://github.com/Siilwyn))
+- Stanislav \(Stas\) Katkov ([`skatkov`](https://github.com/skatkov))
+- Tobias Klauser ([`tklauser`](https://github.com/tklauser))
+- WieeRd ([`WieeRd`](https://github.com/WieeRd))
+- Jinglue ([`batkiz`](https://github.com/batkiz))
+- bubersson ([`bubersson`](https://github.com/bubersson))
+- borbitter ([`haennes`](https://github.com/haennes))
+- kalle \(jag\) ([`applejag`](https://github.com/applejag))
+- lestrrat ([`lestrrat`](https://github.com/lestrrat))
+- one230six ([`one230six`](https://github.com/one230six))
+- purofle
+- rustfix ([`rustfix`](https://github.com/rustfix))
+- Shaun Mitchell ([`shitchell`](https://github.com/shitchell))
+- tploss
+- Aristo Chen ([`AristoChen`](https://github.com/AristoChen))
+- Bruno Arueira ([`brunoarueira`](https://github.com/brunoarueira))
+- Christopher Murphy ([`Splode`](https://github.com/Splode))
+- Cristian Dominguez ([`cristiand391`](https://github.com/cristiand391))
+- Dawid Dziurla ([`dawidd6`](https://github.com/dawidd6))
+- Glauber Santana
+- Herby Gillot ([`herbygillot`](https://github.com/herbygillot))
+- Jesse Millar ([`jessemillar`](https://github.com/jessemillar))
+- Jon Austin ([`jonaustin`](https://github.com/jonaustin))
+- João Pedro Veiga  ([`VeigaPunk`](https://github.com/VeigaPunk))
+- Justin Moser ([`jmmoser`](https://github.com/jmmoser))
+- K\.B\.Dharun Krishna ([`kbdharun`](https://github.com/kbdharun))
+- Ang ([`kianmeng`](https://github.com/kianmeng))
+- Lars Müller ([`appgurueu`](https://github.com/appgurueu))
+- Matt Van Horn ([`mvanhorn`](https://github.com/mvanhorn))
+- Nathan Cain ([`nathanscain`](https://github.com/nathanscain))
+- NijeboerFrank ([`NijeboerFrank`](https://github.com/NijeboerFrank))
+- Nils Vu ([`nilsvu`](https://github.com/nilsvu))
+
+</details>
 <!-- veigapunk-upstream-maintainers:end -->
 
 # Glow
